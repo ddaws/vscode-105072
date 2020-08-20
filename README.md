@@ -1,0 +1,1 @@
+This project recretes a bug cuasing VSCode to crash on Arch linux when a `preLaunchTask` is added to the VSCode launch profile. For more information check out https://github.com/microsoft/vscode/issues/105072
