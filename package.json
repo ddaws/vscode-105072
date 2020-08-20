@@ -1,0 +1,15 @@
+{
+  "name": "vscode-105072",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "repository": "https://github.com/ddaws/vscode-105072",
+  "author": "Dawson <ddaws@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  }
+}
